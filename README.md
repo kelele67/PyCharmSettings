@@ -1,2 +1,2 @@
-# TextGenerator
-My First Data Mining Homework
+# PyCharmSettings
+My PyCharm Settings
